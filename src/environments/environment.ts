@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api_url: 'https://minicurso-springboot.herokuapp.com/minicurso-spring/api',
+  api_url: 'https://minicurso-springboot.herokuapp.com/minicurso-spring/api'
 };
 
 /*
